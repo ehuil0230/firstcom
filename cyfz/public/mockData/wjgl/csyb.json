@@ -1,0 +1,62 @@
+{
+  "caption": "处室已办",
+  "tableList": [
+    {
+      "label": "缓急444",
+      "prop": "hjmc",
+      "show": true
+    },
+    {
+      "label": "文件编号",
+      "prop": "wjbh",
+      "show": true
+    },
+    {
+      "label": "文件标题",
+      "prop": "bt",
+      "show": true,
+      "template":true
+    },
+    {
+      "label": "文档类型",
+      "prop": "wjlxmc",
+      "show": true
+    },
+    {
+      "label": "送出时间",
+      "prop": "scsj",
+      "show": true
+    },
+    {
+      "label": "当前环节",
+      "prop": "hddymc",
+      "show": true
+    }
+  ],
+  "list":[
+    {
+      "hjmc":"缓急",
+      "wjbh":"wjbh",
+      "bt":"处室已办",
+      "wjlxmc":"缓急",
+      "scsj":"wjbh",
+      "hddymc":"bt"
+    },
+    {
+      "hjmc":"缓急",
+      "wjbh":"wjbh",
+      "bt":"处室已办",
+      "wjlxmc":"缓急",
+      "scsj":"wjbh",
+      "hddymc":"bt"
+    },
+    {
+      "hjmc":"缓急",
+      "wjbh":"wjbh",
+      "bt":"处室已办",
+      "wjlxmc":"缓急",
+      "scsj":"wjbh",
+      "hddymc":"bt"
+    }
+  ]
+}

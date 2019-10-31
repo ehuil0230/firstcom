@@ -1,0 +1,27 @@
+{
+  "info": [
+    {
+      "path": "/xdqxxtb",
+      "caption": "先导区信息填报"
+    },
+    {
+      "path": "/zchz",
+      "caption": "政策汇总"
+    },
+    {
+      "path": "/cgfb",
+      "caption": "成果发布"
+    },
+    {
+      "path": "/jxkh",
+      "caption": "绩效考核"
+    },
+    {
+      "path": "/show",
+      "caption": "人才及培训管理"
+    }
+  ],
+  "result": 1,
+  "msg": "success"
+}
+

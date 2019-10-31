@@ -1,0 +1,52 @@
+{
+  "info": {
+  "list": [{
+    "lgwtdbxh": "1",
+    "lgwtdbhj": "普通",
+    "lgwtdbwjbh": "B2019007",
+    "lgwtdbbt": "xxxxxxxxxx",
+    "lgwtdbshhj": "领导审核",
+    "lgwtdbcrr":"张三",
+    "lgwtdbwtr": "李四",
+    "lgwtdbdqblr": "杨硕",
+    "lgwtdbcrrq": "2019-08-20",
+    "lgwtdbxbrq": "2019-08-22"
+  },{
+    "lgwtdbxh": "2",
+    "lgwtdbhj": "普通",
+    "lgwtdbwjbh": "B2019007",
+    "lgwtdbbt": "xxxxxxxxxx",
+    "lgwtdbshhj": "领导审核",
+    "lgwtdbcrr":"张三",
+    "lgwtdbwtr": "李四",
+    "lgwtdbdqblr": "杨硕",
+    "lgwtdbcrrq": "2019-08-20",
+    "lgwtdbxbrq": "2019-08-22"
+  },{
+    "lgwtdbxh": "3",
+    "lgwtdbhj": "急件",
+    "lgwtdbwjbh": "B2019007",
+    "lgwtdbbt": "xxxxxxxxxx",
+    "lgwtdbshhj": "领导审核",
+    "lgwtdbcrr":"张三",
+    "lgwtdbwtr": "李四",
+    "lgwtdbdqblr": "杨硕",
+    "lgwtdbcrrq": "2019-08-20",
+    "lgwtdbxbrq": "2019-08-22"
+  },{
+    "lgwtdbxh": "3",
+    "lgwtdbhj": "特急",
+    "lgwtdbwjbh": "B2019007",
+    "lgwtdbbt": "xxxxxxxxxx",
+    "lgwtdbshhj": "领导审核",
+    "lgwtdbcrr":"张三",
+    "lgwtdbwtr": "李四",
+    "lgwtdbdqblr": "杨硕",
+    "lgwtdbcrrq": "2019-08-20",
+    "lgwtdbxbrq": "2019-08-22"
+  }
+ ],
+    "totalSize":15
+  },
+  "result": 1
+}

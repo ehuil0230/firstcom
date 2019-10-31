@@ -1,0 +1,82 @@
+{"data":[
+  {
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  },{
+    "tableName": "CS_QX_ORG_CJM",
+    "sql": "SELECT T.DMBPK CODE,T.XYBZ,T.CCM,T.XSXH,T.DWLSGXMC CAPTION,T.ZFBZ,T.SJDMBPK PCODE,T.DWLSGX_DM DM FROM dm_dzz_dwlsgx T",
+    "tableIndex": "CODE",
+    "saveType": "ALL",
+    "grounpCol": "PCODE"
+  }
+],"totalSize":13
+}

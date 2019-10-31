@@ -1,0 +1,52 @@
+{
+  "info": [
+    {
+      "path": "/hyfxgl",
+      "caption": "行业分析概览"
+    },
+    {
+      "path": "/bzqkfx",
+      "caption": "标准情况分析"
+    },
+    {
+      "path": "",
+      "code": "111",
+      "xsxh": 100,
+      "pcode": "",
+      "children": [
+        {
+          "path": "/qgsyfx",
+          "caption": "全国收益分析"
+        },
+        {
+          "path": "/xdqsyfx",
+          "caption": "先导区收益分析"
+        },
+        {
+          "path": "/gssyfx",
+          "caption": "各省收益分析"
+        }
+      ],
+      "caption": "产值收益分析",
+      "appPath": "http://10.2.52.23:80"
+    },
+    {
+      "path": "/zscqfx",
+      "caption": "知识产权分析"
+    },
+   {
+      "path": "/tzxxfx",
+      "caption": "投资信息分析"
+    },
+    {
+      "path": "/ggqyfx",
+      "caption": "骨干企业分析"
+    },
+    {
+      "path": "/xdqzs",
+      "caption": "先导区展示"
+    }
+  ],
+  "result": 1,
+  "msg": "success"
+}

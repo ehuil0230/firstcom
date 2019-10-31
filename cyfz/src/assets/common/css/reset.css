@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background: #fff;
+    height: 100%;
+    font-size: 14px;
+    color: #666666 !important;
+    min-width: 1200px;
+}
+body::-webkit-scrollbar {
+    width:0px;
+    height:0px;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+fieldset,
+img {
+    border: 0 none;
+    /*有些浏览器默认这些标签有边框，所以要清除默认边框*/
+}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+i,
+u,
+b,
+strong,
+th,
+var {
+   /* font-style: normal;
+    font-weight: normal;*/
+    /*清除标签默认文本样式和加粗*/
+}
+input,
+textarea {
+    outline: 0 none;
+    /*去掉文本框的默认轮廓线*/
+}
+ol,
+ul {
+    list-style: none;
+    /*清除列表默认样式*/
+}
+a {
+    text-decoration: none;
+}
+.clearfix:after {
+    height: 0;
+    content: " ";
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+
+.mainContent div{
+    box-sizing: border-box;
+}
+
+.el-tree>.el-tree-node{
+    min-width:100%;
+    display: inline-block;
+}
+
+.el-table{
+    overflow-x: auto;
+}
+
+.el-input.is-disabled .el-input__inner {
+    background-color: #ffffff;
+    color: #606266;
+}
+
+.el-message-box__message p {
+    word-break: break-all;
+}
+
+.el-dialog__header{
+    padding: 8px 0px;
+    background-color: #409EFF;
+}
+.el-dialog__title{
+    color: #FFFFFF;
+}
+.el-dialog__headerbtn{
+    top: 12px;
+}
+.el-dialog__headerbtn .el-dialog__close{
+    color: #FFFFFF;
+}
+.el-dialog__headerbtn:focus .el-dialog__close, .el-dialog__headerbtn:hover .el-dialog__close{
+    color: #FFFFFF;
+}
+
+/*.tras-icon{
+    transform:rotate(180deg);
+    -ms-transform:rotate(180deg); 	!* IE 9 *!
+    -moz-transform:rotate(180deg); 	!* Firefox *!
+    -webkit-transform:rotate(180deg); !* Safari 和 Chrome *!
+    -o-transform:rotate(180deg);
+}*/
+
+.tras-icon{
+    transform:rotate(90deg);
+    -ms-transform:rotate(90deg); 	/* IE 9 */
+    -moz-transform:rotate(90deg); 	/* Firefox */
+    -webkit-transform:rotate(90deg); /* Safari 和 Chrome */
+    -o-transform:rotate(90deg);
+}
+
+.el-dialog {
+    display: flex;
+    flex-direction: column;
+    margin: 0 !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*height:600px;*/
+    max-height: calc(100% - 30px);
+    max-width: calc(100% - 30px);
+}
+.el-dialog .el-dialog__body {
+    flex: 1;
+    overflow: auto;
+}
